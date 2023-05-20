@@ -6,42 +6,61 @@ To get started with the DogGPT project, follow these steps:
 
 Clone the repository and create a virtual environment:
 
-Copy code
-$ git clone https://github.com/KwabenaSark/DogGPT.git
-$ cd DogGPT
-$ python3 -m venv venv
-$ . venv/bin/activate
-Install the required dependencies:
 
-Copy code
-$ (venv) pip install Flask torch torchvision nltk
+
+### Setup
+
+1. Clone the repository and create a virtual environment:
+
+   ```
+   $ git clone https://github.com/KwabenaSark/DogGPT.git
+   $ cd DogGPT
+   $ python3 -m venv venv
+   $ . venv/bin/activate
+
+
+2. Install the required dependencies:
+
+   
+  ```  pip install Flask torch torchvision nltk ```
 Install the nltk package:
-python
-Copy code
-$ (venv) python
->>> import nltk
->>> nltk.download('punkt')
-Train the model:
+
 
 Copy code
+
+ ``` $ (venv) python
+>>> import nltk
+>>> nltk.download('punkt') 
+```
+
+
+Training and Testing
+Train the model:
+```
 quit()
-$ (venv) python train.py
+
+
+python train.py
+```
 This will generate the data.pth file.
 
 Test the model in the console:
-ruby
+
+
 Copy code
-$ (venv) python chat.py
+```
+python chat.py 
+```
 This will allow you to interact with the model in the terminal.
 
-To use the frontend, follow these additional steps:
-
+Frontend
 Open the frontend files path.
 
 Run the Flask application:
+python app.py in VScode
 
-ruby
-Copy code
-$ (venv) python app.py
 Launch the index.html file in your web browser.
+
 By following these steps, you will have the DogGPT project set up and running. You can chat with the model in the console and also interact with it through the provided frontend by opening the index.html file.
+
+
