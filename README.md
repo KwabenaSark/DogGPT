@@ -65,4 +65,5 @@ By following these steps, you will have the DogGPT project set up and running. Y
 
 https://github.com/KwabenaSark/DogGPT/assets/104778334/343b5132-1721-4b28-a335-6d6428916916)
 
+[![Video Title](https://github.com/KwabenaSark/DogGPT/raw/main/assets/104778334/343b5132-1721-4b28-a335-6d6428916916.mp4)](https://github.com/KwabenaSark/DogGPT/raw/main/assets/104778334/343b5132-1721-4b28-a335-6d6428916916.mp4)
 
