@@ -66,7 +66,7 @@ By following these steps, you will have the DogGPT project set up and running. Y
 
 
 ## demo
-[youtube](https://youtu.be/DRoxS7HdT-k)
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/DRoxS7HdT-k)
 
 
