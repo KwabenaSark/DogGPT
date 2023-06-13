@@ -71,37 +71,6 @@ By following these steps, you will have the DogGPT project set up and running. Y
 [![Watch the video]](https://youtu.be/DRoxS7HdT-k)
 
 
-  1:42
-Now playing
-
-  
-    
-    
-    
-  
-
-
-
-
-  
-
-
-
-  
-    Watch later
-  
-
-  
-  Watch later
-
-
-
-
-    Add to queue
-  
-
-  
-  Add to queue  
 
 
 
